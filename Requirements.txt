@@ -1,0 +1,6 @@
+alpaca-py
+yfinance
+pandas
+flask
+gunicorn
+python-dotenv
